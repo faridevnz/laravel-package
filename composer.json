@@ -12,6 +12,8 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "Src\\LaravelPackage\\": "/src/LaravelPackage"
+        "psr-4": {
+            "Src\\LaravelPackage\\": "/src/LaravelPackage"
+        }
     }
 }
