@@ -1,0 +1,17 @@
+{
+    "name": "faridevnz/laravel-package",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alessio Farinelli",
+            "email": "alessio.farinelli.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "Src\\LaravelPackage\\": "/src/LaravelPackage"
+    }
+}
