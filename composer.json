@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Src\\LaravelPackage\\": "/src/LaravelPackage"
+            "Src\\": "/src"
         }
     }
 }
