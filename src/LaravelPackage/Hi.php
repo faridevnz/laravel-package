@@ -1,6 +1,6 @@
 <?php
 
-namespace Src\LaravelPackage;
+namespace Faridevnz\Ciao;
 
 class Hi
 {

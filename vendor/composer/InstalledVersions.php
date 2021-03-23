@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '606bc7c176bcf230f6be1c433aa2295054f16705',
+    'reference' => 'cc632d438409e07feb3458cacc57f78cbfdf7ff9',
     'name' => 'faridevnz/laravel-package',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '606bc7c176bcf230f6be1c433aa2295054f16705',
+      'reference' => 'cc632d438409e07feb3458cacc57f78cbfdf7ff9',
     ),
   ),
 );
